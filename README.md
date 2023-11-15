@@ -10,5 +10,4 @@ In this project, we harness the capabilities of K-Means Clustering, a widely use
 The project repository includes the following components:
 
 Dataset/: This directory holds the dataset and all features explained in Dataset_Features.txt
-
 Customer_Segmentation.ipynb: The Jupyter Notebook used for building and analyzing the segmentation model.
